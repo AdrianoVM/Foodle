@@ -1,0 +1,11 @@
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\bin\Debug\net8.0\Foodle.Domain.deps.json
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\bin\Debug\net8.0\Foodle.Domain.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\bin\Debug\net8.0\Foodle.Domain.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.AssemblyInfoInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.AssemblyInfo.cs
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\refint\Foodle.Domain.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\ref\Foodle.Domain.dll

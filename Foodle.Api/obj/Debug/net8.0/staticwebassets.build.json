@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wz8uyoplIk57tMeW67Nz2qXw7tVPTDSyJDwLrniCly4=",
+  "Source": "Foodle.Api",
+  "BasePath": "_content/Foodle.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

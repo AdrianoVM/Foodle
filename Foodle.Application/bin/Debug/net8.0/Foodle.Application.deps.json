@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Foodle.Application/1.0.0": {
+        "dependencies": {
+          "Foodle.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Foodle.Application.dll": {}
+        }
+      },
+      "Foodle.Domain/1.0.0": {
+        "runtime": {
+          "Foodle.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foodle.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foodle.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

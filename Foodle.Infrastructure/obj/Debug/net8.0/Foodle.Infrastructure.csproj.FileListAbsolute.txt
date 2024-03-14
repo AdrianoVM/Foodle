@@ -1,0 +1,17 @@
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Infrastructure.deps.json
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Infrastructure.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Infrastructure.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.AssemblyInfo.cs
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\refint\Foodle.Infrastructure.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\ref\Foodle.Infrastructure.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Application.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Domain.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Application.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\bin\Debug\net8.0\Foodle.Domain.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Infrastructure\obj\Debug\net8.0\Foodle.I.F2599972.Up2Date

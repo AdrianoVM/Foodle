@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Foodle.Api/1.0.0": {
+        "dependencies": {
+          "Foodle.Application": "1.0.0",
+          "Foodle.Contracts": "1.0.0",
+          "Foodle.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Foodle.Api.dll": {}
+        }
+      },
+      "Foodle.Application/1.0.0": {
+        "dependencies": {
+          "Foodle.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Foodle.Application.dll": {}
+        }
+      },
+      "Foodle.Contracts/1.0.0": {
+        "runtime": {
+          "Foodle.Contracts.dll": {}
+        }
+      },
+      "Foodle.Domain/1.0.0": {
+        "runtime": {
+          "Foodle.Domain.dll": {}
+        }
+      },
+      "Foodle.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Foodle.Application": "1.0.0"
+        },
+        "runtime": {
+          "Foodle.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foodle.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foodle.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foodle.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foodle.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Foodle.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Foodle.Contracts/1.0.0": {
+        "runtime": {
+          "Foodle.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foodle.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\bin\Debug\net8.0\Foodle.Contracts.deps.json
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\bin\Debug\net8.0\Foodle.Contracts.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\bin\Debug\net8.0\Foodle.Contracts.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.AssemblyInfoInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.AssemblyInfo.cs
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\refint\Foodle.Contracts.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.pdb
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\ref\Foodle.Contracts.dll
