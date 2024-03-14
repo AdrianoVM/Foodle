@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4q5jKs67KU+dLqmSZJUpOdymDSjXup0HVNWc6eZqRpsfSH2UeqwnlND7qLS2ANlyj+K2XhrhSX52jYHLaPyDaw==",
+  "dgSpecHash": "5XYhrK4mJzd8XOSGECzioAM6XsdKuu50kT4hFxC/qJi+ti+owYOTcPYtt479XuVl2IWHXZisYLOJmidYFLQiKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dridr\\Documents\\Learning\\dotnet\\Foodle\\Foodle.Application\\Foodle.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dridr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

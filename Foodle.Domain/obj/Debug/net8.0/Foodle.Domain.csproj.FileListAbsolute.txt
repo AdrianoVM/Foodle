@@ -9,3 +9,4 @@ C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\F
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\refint\Foodle.Domain.dll
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.pdb
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\ref\Foodle.Domain.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Domain\obj\Debug\net8.0\Foodle.Domain.sourcelink.json

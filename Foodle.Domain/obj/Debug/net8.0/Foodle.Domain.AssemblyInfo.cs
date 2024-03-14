@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foodle.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f88795b865817d0408f2269b6865b2168b6c2dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foodle.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foodle.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

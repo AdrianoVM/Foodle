@@ -9,3 +9,4 @@ C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\refint\Foodle.Contracts.dll
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.pdb
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\ref\Foodle.Contracts.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Contracts\obj\Debug\net8.0\Foodle.Contracts.sourcelink.json

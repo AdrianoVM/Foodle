@@ -33,3 +33,5 @@ C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\obj\Debug\net8.0\refi
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\obj\Debug\net8.0\Foodle.Api.pdb
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\obj\Debug\net8.0\Foodle.Api.genruntimeconfig.cache
 C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\obj\Debug\net8.0\ref\Foodle.Api.dll
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\obj\Debug\net8.0\Foodle.Api.sourcelink.json
+C:\Users\dridr\Documents\Learning\dotnet\Foodle\Foodle.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
