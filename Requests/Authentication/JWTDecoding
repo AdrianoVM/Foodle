@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 10 Apr 2024 13:17:37 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+{
+  "id": "4aa1a914-30b1-47a6-8957-680659280c99",
+  "firstName": "Adriano",
+  "lastName": "Viegas Milani",
+  "email": "a.viegasmilani@gmail.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4NzBkZmIyMi0xZjc5LTRmYTktYjhhOC02MmU5ZDUzNjliYjEiLCJnaXZlbl9uYW1lIjoiQWRyaWFubyIsImZhbWlseV9uYW1lIjoiVmllZ2FzIE1pbGFuaSIsImp0aSI6IjdkZjQwZjAyLWM4MTItNDZmNy04OTk2LWYxNDdiNzZhZWQyYiIsImV4cCI6MTcxMjc1OTU5NywiaXNzIjoiRm9vZGxlIn0.4TworvoDMv9AQ-lP3JS3iaaOI-kqKLh04t1eoV_A9dQ"
+}
